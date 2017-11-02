@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\regex0\regex0\bin\Debug\regex0.exe.config
+C:\Users\User\source\repos\regex0\regex0\bin\Debug\regex0.exe
+C:\Users\User\source\repos\regex0\regex0\bin\Debug\regex0.pdb
+C:\Users\User\source\repos\regex0\regex0\obj\Debug\regex0.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\regex0\regex0\obj\Debug\regex0.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\regex0\regex0\obj\Debug\regex0.exe
+C:\Users\User\source\repos\regex0\regex0\obj\Debug\regex0.pdb
